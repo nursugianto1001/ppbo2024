@@ -1,0 +1,19 @@
+{
+    "name": "nursugianto1001/ppbo2024",
+    "description": "pemrograman berorientasi objek",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+    {
+        "name": "nursugianto1001",
+        "email": "h1101231053@student.untan.ac.id"
+    }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"App"
+        }
+    }
+    
+}
